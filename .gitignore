@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Backend runtime files
+backend/.env
+backend/uploads/
+backend/data/voice_db.json
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
